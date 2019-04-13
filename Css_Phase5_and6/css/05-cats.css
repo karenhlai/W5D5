@@ -1,0 +1,8 @@
+/* PHASE 5: Cats */
+.content-header {
+  background: url("../images/cats.jpg");
+  background-size: cover;
+  height: 200px;
+  width: inherit;
+  position: relative;
+}
